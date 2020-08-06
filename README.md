@@ -1,1 +1,10 @@
-# CommunicationWarningSystem
+# 说明
+ 
+>  2020 年的 Android 开发课程设计项目——通信预警APP
+
+>  监听来电和短信，对号码设定相应的安全等级；当该号码再次与本机通信，将会根据安全等级，弹出相应的预警通知。</br>
+
+>  自动保存号码、短信、通话记录、通话录音。
+
+>  开发环境 Android Studio + Android SDK 29
+
